@@ -1,6 +1,6 @@
-# Guess-My-Number
+# Guess My Number
 
-**Guess-My-Number** is a simple guessing game played in the web browser where the goal is to try and guess a number between 1 and 20.
+**Guess My Number** is a simple guessing game played in the web browser where the goal is to try and guess a number between 1 and 20.
 This game was built as a playful exercise in DOM manipulation using a combination of **HTML**/**CSS**/**JS**.
 
 [Give it a try!](https://bryandevelops.github.io/Guess-My-Number/)
